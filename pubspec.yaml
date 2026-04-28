@@ -1,6 +1,6 @@
 name: geo_match_flutter
 description: A production-ready realtime location matching engine for Flutter. Finds and assigns the nearest available user — ideal for ride-hailing, delivery, or emergency apps.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/rosa12g/geo_match_flutter
 repository: https://github.com/rosa12g/geo_match_flutter
 
